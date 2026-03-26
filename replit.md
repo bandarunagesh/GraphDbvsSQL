@@ -16,9 +16,7 @@ pnpm workspace monorepo using TypeScript. Each package manages its own dependenc
 - **API codegen**: Orval (from OpenAPI spec)
 - **Build**: esbuild (CJS bundle)
 
-## Artifacts
 
-- **graphdb-ontology-slides** — 9-slide executive presentation on leveraging Graph DB as the semantic/ontology layer for enterprise agentic AI. Brand guidelines: Company Soft White (#fcfcfc), Warm Black (#161616), Space Orange (#ff4e00). Font: Inter (Swiss geometric sans-serif substitute for Volta Modern). Slide manifest at `src/data/slides-manifest.json`.
 
 ## Structure
 
