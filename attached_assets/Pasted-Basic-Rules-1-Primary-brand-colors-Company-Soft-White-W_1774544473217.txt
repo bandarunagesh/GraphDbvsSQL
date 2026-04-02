@@ -1,0 +1,702 @@
+Basic Rules
+1. Primary brand colors: Company Soft White & Warm Black
+﻿Our primary colors must always be visible and predominant in initial contact with our brand. Company Soft White is primarily used for backgrounds and Company Warm Black for typography and our logo.  
+
+2. Accent color: Company Space Orange
+﻿Use Space Orange for bold highlights and key interactive elements. This includes the "Input" line, as a disruptor color, and for elements like buttons and links. Learn more about the "Input" line in layout principles. When used for text, orange must be larger than 19 pt or 24 px.
+
+3. Gradient: Company Space Gradient 
+﻿The gradient can complement our brand but not dominate it. It is used over a large area in certain defined layouts. You can find out which layouts are suitable for gradients in the layout principles. 
+
+
+Company grid
+Flexible yet unique - the holistic layout system of Company.
+
+In the layout system, all our key assets come together to form the new brand. From logo to font and color, to our imagery and illustrations – every component aligns to create Company in a modern, sophisticated, and flexible way. A system that connects science and humanity in every expression.
+
+Grid structure
+To ensure a consistent and user-friendly application, we have defined a simple method for applying the Company grid across all digital and print formats. The following section explains and demonstrates these steps.
+
+Step 01: Identify the margin
+The first step is to define the margin – the space between the grid and the edge of the format. Establishing this margin is essential, as it creates a clear visual framework that ensures readability, balance, and harmony within the design. By maintaining consistent spacing, the layout remains open and breathable, preventing overcrowding and allowing each element to stand out with clarity and purpose.
+
+Step 02: Create the grid
+The next step is to establish the actual grid system. This system is built on mathematical principles to ensure maximum flexibility, consistency, and ease of use across all applications. It is important to note that the grid is designed around standard formats, providing a reliable foundation for most layouts. In cases involving extreme or unconventional formats, slight adjustments may be required. These special cases are outlined in the following section.
+
+For this step we divide the short side of the format into 6, the longer side into 12 Units.
+
+Step 03: Spacing
+The space between units is called the gutter. It plays a key role in maintaining readability and visual harmony. To ensure consistency, the gutter spacing is once again defined by the short side of the format.
+
+Dont's:
+
+No gutter space.
+Large gutter space.
+Irregular gutter space.
+No margin.
+Less units.
+More units.
+
+The Input
+Meet the Input, our visual catalyst.
+The Company Input mirrors the pestle in our brand symbol – scientific breakthrough in action. Where symbolism meets structure. Where breakthrough becomes design. It connects humanity and science, reminding us that every medicine is created for the patients who need it.
+
+The height of the Input also stems from the grid system. It is precicesly half a unit height + one gutter height.
+
+layout-system_The-Input_03
+The anchor point of the Input is always the edge
+
+of the unit below or above it, where the picture or gradient ends. 
+
+The Input can be repositioned on the grid
+Placing the Input along the grid is simple. The only exceptions to look out for are the gutter lines on the ends. Everywhere else the Input can be placed inside the grid as long as it does not violate the logo’s clear space. When the logo is present, its protected area must always remain free.
+
+The visual below shows a map of the available area for the Input. If the logo is placed on the left or right side of the layout, this area may overlap with the logo’s clear space. In this case, the Input cannot be placed here.
+
+When placing the Input, it is important to consider whether it comes from above, meaning it is positioned above the images, or from below. Depending on this state, the area where the Input can be placed will change.
+
+Key point: Always check the logo’s position first. The Input can only be placed in areas that do not violate the logo’s safe zone.
+
+
+Input is placed from above.
+Input is placed from below.
+The safe space of the Input also integrates itself neatly into the grid. To each side we use one unit space, to clear a safe environment around the Input, to avoid elements like headlines or body copy interfering with it.
+
+ont’s:
+Rotate Input.
+Placed on unit.
+No safe space.
+Recolor
+Detached from picture boxes.
+Outside grid.
+Stretch Input horizontally.
+Put Input in logo clear space.
+Do not use more than one Input.
+
+Layout structure:
+
+Logo placement on layouts
+Depending on the format and view port, the logo can be positioned in any corner, always aligning with the grid to maintain strong visibility. The preferred placement is the top-left corner. This flexibility allows the logo to act as a clear entry or exit point in the composition, while still supporting a coherent Company experience.
+
+The logo always sits flush with the grid.
+At the top, it aligns with the upper edge of the unit.
+At the bottom, it aligns with the lower edge.
+
+Logo size on layouts
+Depending on the format, the logo can be used in three different sizes.
+
+Logo size S:  2 grid units in width
+﻿Logo size M:  2.5 grid units in width
+﻿Logo size L:  3 grid units in width
+Among the three available sizes, size S is the one used most frequently.
+
+
+
+             Size recommendations:
+
+
+                                                                                  Logo size S                           Logo size M                          Logo size L
+
+
+
+
+             Digital                                                        1920 X 1080 px                                                                      1440 X 1024 px
+
+                                                                                  160 X600 px
+             formats                                                                                                                                                          393 X 852 px
+
+                                                                                  728X90 px
+
+
+
+
+             Social media                                                                                                Facebook Post:                   LinkedIn Post:                                                                                  -
+             formats                                                                                                        1200 X 630 px                     1200 X 627 px
+
+                                                                                                                                     Instagram Post:
+
+                                                                                                                                     1080 X 1350 px
+
+                                                                                                                                     1080 X 1080 px
+
+
+
+
+
+             Print                                                           DIN A4 portrait                     -                                               DIN A4 landscape
+
+             formats                                                     US letter portrait                                                                    US letter landscape,
+                                                                                  DIN A3 portrait
+                                                                                                                                                                                       DIN A3 landscape
+
+                                                                                  Tabloid portrait                                                                       DIN A5
+
+                                                                                                                                                                                       Tabloid landscape
+
+Basic layout structures
+Four layout structures create consistency and flexibility across formats.
+
+Basic layout structure A: Headline and supporting type, paired with two images,  either gradient and imagery, or human and science imagery combined.
+
+Basic layout structure B: Same as structure A, with visuals anchored at the top. Type volume adjusts based on image size.
+
+Basic layout structure C: Headline and supporting type, combined with one big hero image, either place on the bottom, top, right or left.
+
+Basic layout structure D: No image, just h and supporting type and on a white or gradient background.
+
+Basic rule: When using two or more images, the larger image anchors to two sides of the format; the smaller image anchors to at least one side. When using a single image, it must anchor to three sides to ensure a strong, stable composition.
+
+Layout structure A:
+Components: Logo, headline, and supporting type at top; two visual elements below.
+
+Description: This layout pairs text with two images, offering flexible combinations based on content needs:
+
+Human + science – one image shows a human imagery, the other represents science. Placement is flexible
+Human + gradient – a human image paired with a gradient to create balance or draw focus
+Science + gradient – a science image paired with a gradient to create balance or highlight the content
+Flexible pairing allows adaptation by message, audience, and format while maintaining visual consistency. Ideal when text and visuals carry equal weight.
+
+Dont’:
+sLogo centred.
+Type on visuals.
+Background and visuals.
+
+Layout structure B:
+Components: Two visual elements at top; logo, headline and supporting type below.
+
+Description: This layout leads with visuals, placing images above text. Uses the same flexible pairings as structure A:
+
+Human + science – one human element, one science element
+Human + gradient – human image with gradient for balance or emphasis
+Science + gradient – science image with gradient for balance or focus
+The amount of type may vary depending on the size and prominence of the visuals.Ideal for attention-grabbing formats, such as posters, banners, or digital ads, where the image is the first element the viewer notices.
+
+Dont’s:
+Logo centred.
+Type on visual.
+Background and visuals.
+No pairing of illustration and gradient allowed.
+
+Layout structure C:
+Components: Logo, text, and one large hero image.
+
+Description: One dominant visual – image or gradient – positioned bottom, top, right or left. Text can be placed above, below or next to the image.
+
+Best for presentations, hero visuals, and high-impact marketing materials.
+
+Dont’s:
+Type on visual.
+Gradient visual combination.
+Visual not touching sides.
+
+Layout structure D:
+Components:  Text only, with a white or gradient background.
+
+Description: A text-focused layout for when imagery would distract. Use gradients to add depth and highlight content areas, creating visual interest without images.Ideal for internal communications, instructional materials, or simple flyers.
+
+Dont’s:
+White type on gradient.
+Text that does not follow the defined typographic rules.
+Gradient not touching sides.
+
+Multiple Images
+For non-hero applications
+Components: Introduction, and multiple non-hero images.
+
+Description: This layout option is for applications where multiple images are required. However, it should not be used for feature intros or hero-sections such as homepage banners, website section chapters, posters or covers (in these cases please use layout structures A–D). The multiple image layout option pairs text with three to four images, offering flexible combinations based on content needs. A recommended limit of four images per canvas/layout should be observed. Avoid including too many images on a single page. Only use images that meaningfully support the message or content. Do not use gradients or the Input in multiple-image layouts.
+
+Flexible pairing allows adaptation by message, audience, and format while maintaining visual consistency. Ideal when text and visuals carry equal weight.
+
+Dont’s:
+Ensure that at least one image touches two or more edges of the frame.
+Avoid leaving empty space in the center when using multiple images.
+Do not break up images with text or other content; maintain them side by side.
+Do not use an Input on layout structure E.
+
+Layered images
+Layered images in motion
+Use layered images only in motion applications. Static or permanent layered layouts are not allowed; static layouts require clear, non-overlapping images to ensure readability. See the motion section for full guidance on layered images.
+
+
+
+Gradient placement
+Space Orange follows the Input
+Always position the gradient so the Company Space Orange section aligns with the direction of the Input.
+Gradient Usage
+The Company brand includes multiple gradient variants, including non-linear Gradient Variants 01, 02, and 03, as well as a linear gradient.
+
+Across brand design applications, all gradient variants may be used interchangeably depending on context and creative intent. Within infographics, Gradient Variant 01 is the primary gradient. The linear gradient may be used selectively for thin bars or similar functional elements where a non-linear gradient is not suitable.
+
+Gradients should always support content and must not dominate the overall visual impression.
+
+Accessibility
+Gradients should be used with care and only where all color transitions maintain sufficient contrast to meet accessibility requirements. Gradients must not be introduced in functional or informational assets such as icons, QR codes, charts, or UI components. In particular, QR codes must always be solid, high-contrast, and free of gradients to ensure reliable scannability and usability across devices and lighting conditions.
+
+﻿Accessibility guidance﻿
+
+Gradient placement
+The placement of the gradient within the layout always follows a defined pattern. The section of the gradient containing Company Space Orange is always positioned in the direction of the Input. It can be used in layout structures A, B, C, D, E and replaces one of the image elements. Human image + gradient (focus on human), Science image + gradient (focus on science). You can find more information about which layouts the gradient can be used in our layout principles.
+
+﻿Layout System﻿
+
+Applying the moving Company Space Gradient
+An animated version of the gradient is also available. This dynamic variant is intended exclusively for digital applications, such as websites, presentations, and social media. It enhances visual engagement while maintaining consistency with the static gradient versions. Please find the animated gradient and application examples in our motion chapter. 
+
+﻿Motion﻿
+
+How much Space Gradient to use
+Gradient elements should not take up more than roughly 30% of a content unit, see reference table for how this is defined  over gradient should be used sparingly – only large, bold title text is permitted.
+
+﻿
+
+Where gradient 30% rule does not apply
+
+On select printed promotional items (lanyards, flags, pens, t-shirts, etc.) – always use approved designs for promotional items
+Brand avatar when used as part of a company social media account, web page icon or agent icon.
+It contains no text or images of text
+It contains no icons, symbols, or graphical objects that convey meaning
+The experience remains fully understandable and operable if the gradient is removed
+﻿
+
+In experience design, use of the gradient on walls or screens as aligned with the above exceptions should be evaluated by legal on a case-by-case basis. Size of application, screen saturation, etc. all need to be factored in to confirming accessibility compliance.
+
+Gradient Dos and Don'ts
+More than one third of content
+﻿
+
+Small text over gradient
+﻿
+
+One third of screen or less
+﻿
+
+Approved promotional items
+﻿
+
+Large, bold text over compliant gradient
+﻿
+
+Gradient 
+as avatar background
+﻿
+
+Back of business card
+
+Text colors
+Typography is generally displayed in Company Warm Black. This color should always be prioritized to meet accessibility considerations, ensuring optimal readability. 
+
+Company Warm Black
+HEX #161616
+RGB 22, 22, 22
+CMYK 0, 0, 0, 100
+PMS 419C
+
+Company Space Orange may be used sparingly for highlights or small details, but should not be applied to large blocks of text, or text smaller than 19 pt or 24px.
+
+color_Text-colors_02
+Only Company Warm Black text may be used  on the Space Gradient backgrounds.
+
+color_Text-colors_03
+On Company Space Orange backgrounds with Soft White text, use only very large font sizes and short sentences
+Accessibility
+To ensure our content is always clear and easy to read for everyone, only approved color combinations that meet accessibility requirements may be used.
+
+Avoid full Space Orange backgrounds for text-heavy areas.
+Do not use Soft White text on Space Orange for body copy, navigation, buttons, or other functional elements.
+For any critical, small, or text-dense content, Warm Black text colors must be used to maintain readability and accessibility.
+Text colors and background legibility
+Text is always applied in either Company Warm Black, Company Soft White or Company Space Orange. Orange text must be larger than 19 pt or 24px. In general, we prefer to use Company Soft White backgrounds, but there are some instances where we need to use color as a backdrop, for example in charts and diagrams. The table below shows the color combinations that pass digital accessibility WCAG 2.1 standards.
+
+* Large text is defined as +24 pixels in Roman or Medium
+
+Applying text over the gradient
+Care must be taken when applying text over our Company Space Gradient to ensure compliance with digital accessibility requirements. The diagram below demonstrates the color combinations that pass digital accessibility WCAG 2.1 standards. We never use Company Space Orange or Company Soft White over the Space Orange Gradient.
+
+Secondary brand colors
+Grey 1
+HEX #dadada
+RGB 218, 218, 218
+CMYK 0, 0, 0, 20
+PMS
+
+Grey 2
+HEX #f5f5f5
+RGB 245, 245, 245
+CMYK 0, 0, 0, 5
+PMS
+
+There is no Pantone equivalent for Grey 1 and Grey 2 . We always recommend printing the CMYK translation for Grey 1 and Grey 2.
+
+Our secondary color palette may be used for displaying complex content on the web, for infographics, backgrounds in mockups or graphics, and for illustrations. The secondary color palette is only used when our primary palette is no longer sufficient.
+
+Within illustrations Grey 1 should be used for visual elements, such as clothing in illustrations. Grey 2 is reserved exclusively for backgrounds of illustrations and infographics and should not be used for backgrounds in layouts.
+
+Secondary brand colors for illustrations only
+Our secondary color palette for illustrations may be used for illustrations only.
+
+Science Lab Blue
+HEX #a5bff5
+RGB 165, 191, 245
+CMYK 40, 20, 0, 0
+PMS 2128 C
+
+Human Body Pink
+HEX #eda8d1
+RGB 237, 168, 209
+CMYK 8, 42, 0, 0
+PMS 672 C
+
+Brand colors overview
+Company Soft White
+HEX #fcfcfc
+RGB 252, 252, 252
+CMYK 0, 0, 0, 2
+
+Company Warm Black
+HEX #161616
+RGB 22, 22, 22
+CMYK 0, 0, 0, 100
+
+Company Space Orange
+HEX #ff4e00
+RGB 255, 78, 0
+CMYK 0, 78, 100, 0
+
+Grey 1
+HEX #dadada
+RGB 218, 218, 218
+CMYK 0, 0, 0, 20
+
+Grey 2
+HEX #f5f5f5
+RGB 245, 245, 245
+CMYK 0, 0, 0, 5
+
+Science Lab Blue
+HEX #a5bff5
+RGB 165, 191, 245
+CMYK 40, 20, 0, 0
+
+Human Body Pink
+HEX #eda8d1
+RGB 237, 168, 209
+CMYK 8, 42, 0, 0
+
+
+Typography placement
+Typography placement based on unit
+Typography aligns to grid units. Position text blocks at the top or bottom of the selected unit row. The goal is optical balance and visual harmony – more guidance follows.
+
+
+Typography
+Timeless type, sharpened for today.
+
+We’ve retained Volta, honoring our Swiss lineage. Derived from Neue Haas Grotesk, Volta Modern communicates confidence, precision, and assurance with effortless legibility. Gentle curves meet clean lines – technical clarity with human warmth. Two weights. Maximum impact. Pure Swiss design used in the every day.
+
+Basic rules:
+1. Font usage: Volta Modern Display  
+﻿Use Volta Modern Display only. Headlines in Medium, Subheadlines in Roman with Medium highlights, Body Copy in Roman with Medium highlights.
+
+2. Color usage
+﻿Use Company Warm Black or Soft White for typography. Space Orange may be applied sparingly for highlights or small details and must not be smaller than 19 pt / 24px. White text on an orange background must also meet this minimum size for accessibility reasons.
+
+3. Text placement
+﻿Follow the grid system for all text placement. Maintain clear hierarchy, consistent spacing, and alignment across layouts.
+
+Volta Modern in use
+ This is a headline for a strong impact.
+The use of typography requires reoccurring rules to create a holistic visual identity that is unmistakably Company. The following points show how these rules creates an impactful design component within the layout grid.
+
+Font styles
+The Volta Modern Display typeface offers a wide range of font styles, from Thin to Black. This flexibility provides great freedom in design but also carries the risk of overcomplicating the visual system. To maintain a holistic and distinct appearance, we defined two primary styles for Company: Roman and Medium. Limiting the font to these two ensures a user-friendly system that consistently aligns with the Company brand.
+﻿The Volta Modern Display typeface is now the only font used across all Company communications. Volta Modern Text is no longer applied.
+
+
+Two styles for maximum clarity
+typography_Fontstyles_02a
+For headlines and highlighted text, we use the Medium font style, to put emphasis and attention to certain parts. 
+
+typography_Fontstyles_02b
+For longer texts and sub-headlines, we go to the Roman style of the Volta Modern font. This ensures readability.
+
+Body copy is set in Roman, with Medium used for highlights. All  text styles, such as introductions, subheadlines, and captions, are based on this system.
+
+
+As a rule of thumb, doubling the font size creates a clear,  
+﻿balanced, and easy-to-use typographic hierarchy.
+
+
+
+         Size recommendations:
+
+
+
+
+
+
+
+          Digital            12-16 px                            20 px                                40 px                               80 px         120 px       160 px
+
+
+
+
+
+
+
+         Print                  7 pt                               16 pt                                  32 pt                                64 pt          88 pt          128 pt
+
+
+                                                                      Body Copy                             Minimum size                                                        Introduction text                                 Sub-/ Headlines
+
+Font highlights
+Our typography creates a simple, scannable hierarchy.
+
+Headlines:  Medium, for emphasis.
+Subheadlines:  Roman, with key words highlighted in Medium.
+Body Copy:  Roman, using Medium sparingly for emphasis.
+
+Font highlights in Company Space Orange
+Orange may be used to highlight key elements in text. When using orange on a soft white background, the text must have a minimum size of 19 pt (Medium) and 29 pt (Roman) to ensure legibility. Orange highlights are limited to accent elements only (e.g., short headlines, markers, call-outs, emphasis lines), and must not be used for long or large text blocks, or text smaller than 19 pt or 24px. 
+
+The purpose of orange is to direct attention, not to define the overall color impression.
+
+
+Font size proportions
+Our typographic scale ensures clarity and consistency. Headlines and subheadlines are scaled proportionally from the body copy. 
+﻿
+﻿For optimal readability, use a minimum font size of 7pt for print and 12–16px for screen. Orange text, as well as white text on an orange background, must not be used at these small sizes.
+
+
+
+
+
+
+                  Headline 400%
+
+
+
+
+
+
+
+
+
+
+                    Headline - approx. 4x body copy size
+
+
+
+
+                   Subheadline 200 %
+
+
+
+
+
+
+                    Subheadline - approx. 2x body copy size; approx. 1/2 headline size
+
+
+
+
+
+                    Body Copy 100%
+
+
+
+                    Body Copy - use body copy size as a starting point
+
+Line height
+Our line spacing is functional, creating rhythm and clarity. Headlines are set tight (1.0x) for impact, while subheadlines (1.3x) and body copy (1.5x) are more open for readability. This approach keeps our typography structured and accessible across all media.
+
+
+
+
+
+
+
+
+
+                               Headline
+
+
+
+
+                             Medium                                                                                     Headlines
+                                                                                                                                                                              LH 100%
+
+
+
+
+
+                             Subheadline Roman
+
+
+                                                                                                                                                                              Subheadline
+                              Subheadline Medium (Highlights only)           LH 130%
+
+
+
+
+
+                              Body Copy Roman
+
+                              Body Copy Medium (Highlights only)                                                                               Copy LH 150%
+
+Alignment
+As a typographic principle, text should be left-aligned across all touchpoints to reflect fundamental Swiss layout principles, giving the brand an overall visual consistency.  Left-aligned text in combination with ragged-right (how the sentences end) supports readability, especially for people with visual or reading impairments. Justified or right-aligned text should not be used.
+﻿
+
+Please note: By default, all text is left-aligned. Centered alignment is permitted only for single-word headlines and is generally not recommended to maintain the overall typographic look.
+
+Color in typography
+
+Company Soft White
+HEX #fcfcfc
+RGB 252, 252, 252
+CMYK 0, 0, 0, 2
+PMS
+
+
+Company Warm Black
+HEX #161616
+RGB 22, 22, 22
+CMYK 0, 0, 0, 100
+PMS 419C
+
+Company Space Orange
+HEX #ff4e00
+RGB 255, 78, 0
+CMYK 0, 78, 100, 0
+PMS 1655 C
+
+Use Company Warm Black for text, Company Space Orange only for details or highlights.
+
+
+Only black text may be placed on gradient backgrounds.
+
+
+On a Company Space Orange background, use Company Soft White text exclusively.
+
+Don’t place text over photos.
+
+
+Don’t use white text on gradient backgrounds.
+
+
+Don’t use orange for large headlines or long blocks of text.
+
+
+Placing typography inside the Company grid system
+Create balanced, cohesive layouts by establishing clear visual blocks. Anchor content at the top and bottom, then distribute elements evenly in between. The following visual demonstrates this principle.
+
+The goal is optical balance. To keep the system simple, we position key elements as anchors. When two anchors are already in place, additional text elements should be distributed evenly within the optical center. This is a rule of thumb, not a rigid requirement. The aim is visual consistency and balance.
+
+Infographics &data visualizations
+Data visualization, humanized.
+Our infographic language draws from Geigy archives –medical packaging, scientific books, and charts that exemplified Swiss design’s humanistic principle: precision improves understanding, and understanding improves lives. These infographics make complexity accessible. Modern, expansive, and unmistakably Swiss – where precision meets human need and comprehension stays at the center.
+
+Basic Rules
+1. Color usage
+﻿Our data visualizations use the core Company palette and additional shades of grey for secondary elements.
+
+2. Modules
+﻿All infographics are presented within a dedicated module featuring a grey background, ensuring clarity, structure, and a consistent visual framework across all applications.
+
+3. Typography
+﻿All infographics should follow the typography rules in the section below to ensure clarity and consistency across all data visualizations.Iconography, illustration, and photography can also be included in infographics in small amounts. Please follow the guideline rules of each element. 
+
+Infographic modules
+All infographics use the Bento Box principle, organizing visual elements into modular sections. This modular approach makes elements flexible, structured, and easily adaptable across different formats and layouts. 
+
+The modules mirror the precision and clarity of the Swiss grid, ensuring visual consistency, balance, and alignment throughout all communications. This framework maintains a clean, organized aesthetic while allowing room for creativity and storytelling within each module.
+
+Color of modules
+All infographics must be placed on a Grey 2 background and contained within a dedicated module that visually separates the graphic from surrounding content. This framing ensures clarity, structure, and consistent visual hierarchy across applications. Each module must follow the established layout principles for alignment, spacing, and organization.
+
+
+Grey 2
+HEX #f5f5f5
+RGB 245, 245, 245
+CMYK 0, 0, 0, 100
+
+Padding for modules
+The padding for module boxes is based on the gutter of the respective format. The padding (i.e., the distance between the edge of the module and the infographic) must be at least the gutter width. This ensures that infographics are arranged in an airy and visually balanced manner.
+
+Infographic system overview
+Simple
+For simple, bold graphics with two values, use the Space Gradient only when it is applied to full bleed to create strong brand impact. If the layout is not full bleed, use a Space Orange bar next to Warm Black instead. This systematic should be used for keynote presentations, congresses etc. Since the Space Gradient cannot be applied automatically in PowerPoint, simple infographics must be customized individually for PowerPoint. 
+
+
+Simple
+
+For simple, bold graphics with two values, use the Space Gradient with Warm Black. This creates strong brand impact.
+
+Multiple
+For graphics with medium complexity of up to 7 values, use Space Orange, Warm Black and up to five additional shades derived from Company Warm Black. This will be the default in PowerPoint presentations.
+
+Simple infographic system
+Simple
+
+For simple bold graphics reduced to two values, use the Space Gradient together with Warm Black. This type of graphic creates particularly strong brand impact. 
+
+Color palette for simple infographics
+For simple visualizations, such as presentation graphics or infographics with limited data points, the system uses the Company gradient paired with Company Warm Black. This combination provides clear emphasis, a clean aesthetic, and strong brand alignment without introducing unnecessary complexity.
+
+The gradient should be used to highlight the most important data point, while Company Warm Black and Soft White supports the remaining data elements.
+
+Gradient use in infographics
+Infographics primarily use Gradient Variant 01. This non-linear gradient is specifically defined to support data visualization and readability. The linear gradient may be used selectively for thin bars or comparable functional elements where a non-linear gradient is not suitable.
+
+No other gradient variants are permitted within infographics.
+
+
+Multiple infographic system
+Multiple
+
+For graphics with medium complexity of up to 7 values, use Space Orange, Warm Black and up to five additional shades derived from Company Warm Black.
+
+Color set for multiple infographic system 
+For visualizations with moderate categories, use Space Orange for primary data points and shades of grey for secondary elements. Orange emphasizes key information; grey shades differentiate additional data points. This pairing maintains contrast, readability, and a clean, brand-aligned visual language across multiple groups.
+
+
+Company Soft White
+HEX #fcfcfc
+RGB 252, 252, 252
+CMYK 0, 0, 0, 2
+
+Company Space Orange
+HE #ff4e00
+RGB 255, 78, 0
+CMYK 0, 78, 100, 0
+
+Company Warm Black
+HEX #161616
+RGB 22, 22, 22
+CMYK 0, 0, 0, 100
+
+Dark Grey 1
+HEX #2f2f2f
+RGB 47, 47, 47
+CMYK 0, 0, 0, 90
+
+Dark Grey 2
+HEX #484848
+RGB 72, 72, 72
+CMYK 0, 0, 0, 80
+
+Dark Grey 3
+HEX#616161
+RGB 97, 97, 97
+CMYK 0, 0, 0, 70
+
+Medium Grey 1
+HEX #7a7a7a
+RGB 122, 122, 122
+CMYK 0, 0, 0, 60
+
+Medium Grey 2
+HEX #939393
+RGB 147, 147, 147
+CMYK 0, 0, 0, 50
+
